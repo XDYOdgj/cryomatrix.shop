@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cryomatrix.shop/sitemap.xml
